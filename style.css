@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f0f0; /* Açık Gri Arka Plan */
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    color: #333;
+}
+
+h1 {
+    color: #007bff; /* Koyu Mavi Başlık */
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+}
+
+h2 {
+    color: #0056b3; /* Daha Koyu Mavi Alt Başlık */
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
